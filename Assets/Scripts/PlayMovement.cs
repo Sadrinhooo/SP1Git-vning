@@ -2,7 +2,7 @@
 
 public class PlayMovement : MonoBehaviour
 {
-    public float runSpeed = 2;
+    public float runSpeed = 10f;
     public float jumpSpeed = 3;
     public float doubleJumpSpeed = 2.5f;
 
